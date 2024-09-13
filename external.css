@@ -1,0 +1,10 @@
+.squares {
+    display: flex;
+    background: grey;
+}
+.squares > div {
+    background-color: tomato;
+    width: 55px;
+    height: 25px;
+    margin: 11px;
+}
