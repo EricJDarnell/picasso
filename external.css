@@ -1,10 +1,11 @@
 .squares {
     display: flex;
     background: grey;
+    width: 100%;
 }
 .squares > div {
-    background-color: tomato;
-    width: 55px;
+    background-color: salmon;
+    width: 33%;
     height: 25px;
-    margin: 11px;
+    margin: 3px;
 }
